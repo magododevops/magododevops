@@ -1,4 +1,5 @@
- <div align="center">
+
+<div align="center">
 
 <img src="./astronaut-coding.gif" alt="Astronaut coding at night" width="100%" />
 
@@ -18,17 +19,11 @@ Building reliable cloud-native platforms through **automation, infrastructure en
 
 ## 👨‍💻 About Me
 
-I'm a **Senior Platform / DevOps Engineer** with a software engineering background and experience building, automating, and operating cloud-native infrastructure.
+I'm a **Senior Platform / DevOps Engineer** with a software engineering background, focused on building scalable, secure, and reliable cloud-native platforms.
 
-I work across **AWS, Google Cloud, and Microsoft Azure**, designing Kubernetes platforms, cloud networks, infrastructure automation, delivery pipelines, and observability solutions.
+I work across **AWS, Google Cloud, and Azure**, designing Kubernetes platforms, automating infrastructure, improving delivery pipelines, and strengthening observability.
 
-Having started my career in software development, I approach infrastructure with a developer's mindset: **build reliable systems, reduce complexity, and make engineering teams more productive.**
-
-- ☁️ Designing scalable, secure, and resilient cloud infrastructure.
-- ☸️ Building and operating Kubernetes-based platforms.
-- 🏗️ Automating infrastructure with Terraform, Terragrunt, and Bicep.
-- 🔁 Improving delivery through CI/CD, GitOps, and DevSecOps.
-- 📊 Strengthening reliability through observability, automation, and operational practices.
+With a background in backend development, I approach infrastructure with a developer's mindset: **reduce complexity, automate repetitive work, and empower engineering teams.**
 
 ---
 
@@ -44,7 +39,8 @@ Having started my career in software development, I approach infrastructure with
 
 ### ☸️ Containers & Platform Engineering
 
-![Platforms](https://skillicons.dev/icons?i=kubernetes,docker,helm,nginx&theme=dark)
+<img src="https://skillicons.dev/icons?i=kubernetes,docker,nginx&theme=dark" height="48" alt="Kubernetes, Docker and Nginx" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/helm/helm-original.svg" width="48" height="48" alt="Helm" />
 
 `Kubernetes` · `AKS` · `Docker` · `Helm` · `Argo CD` · `GitOps`
 
@@ -76,50 +72,64 @@ My work sits at the intersection of **software engineering, cloud infrastructure
 
 | Area | Focus |
 | :--- | :--- |
-| ☁️ **Cloud Engineering** | Multi-cloud architecture, networking, IAM, and infrastructure automation |
+| ☁️ **Cloud Engineering** | Multi-cloud architecture, networking, IAM, and automation |
 | ☸️ **Platform Engineering** | Kubernetes, workload isolation, GitOps, and developer experience |
-| 🏗️ **Infrastructure as Code** | Reusable modules, reproducible environments, and automated provisioning |
+| 🏗️ **Infrastructure as Code** | Reusable modules, reproducible environments, and provisioning |
 | 🔁 **CI/CD & DevSecOps** | Automated pipelines, secure delivery, and deployment strategies |
 | 📊 **Observability** | Metrics, logs, traces, monitoring, and alerting |
-| 🛡️ **Reliability Engineering** | Scalability, high availability, disaster recovery, and operational resilience |
+| 🛡️ **Reliability Engineering** | Scalability, high availability, and disaster recovery |
+
+---
+
+## 📌 Featured Projects
+
+A few hands-on projects exploring **Kubernetes, cloud-native infrastructure, and reliability engineering**.
+
+### ☸️ [Kubernetes GitOps](https://github.com/pedroschmid/k8s-gitops)
+
+Declarative Kubernetes deployments and automated delivery workflows using Argo CD and Helm.
+
+`Kubernetes` · `Argo CD` · `Helm` · `GitOps`
+
+### 🛡️ [Kubernetes Security](https://github.com/pedroschmid/k8s-kyverno)
+
+Policy enforcement and security automation for Kubernetes workloads using Kyverno.
+
+`Kubernetes` · `Kyverno` · `Terraform` · `Security`
+
+### 📊 [Kubernetes Observability](https://github.com/pedroschmid/k8s-observability)
+
+Monitoring, logging, and distributed tracing for cloud-native applications.
+
+`Prometheus` · `Grafana` · `Loki` · `Tempo`
+
+<div align="center">
+
+[**Explore all my repositories →**](https://github.com/pedroschmid?tab=repositories)
+
+</div>
 
 ---
 
 ## ⚡ Engineering Experience
 
-A few examples of the challenges I've worked on:
+Some of the engineering challenges I've worked on:
 
-**☸️ Cloud-Native Platforms**
-
-Designed and operated Kubernetes infrastructure across cloud environments, with a focus on workload isolation, private networking, secure connectivity, and automated deployments.
-
-**🏗️ Infrastructure Automation**
-
-Built reusable Terraform, Terragrunt, and Bicep modules to standardize cloud provisioning, reduce configuration drift, and support consistent environments.
-
-**🚀 Scalability & Reliability**
-
-Supported high-traffic production workloads during Black Friday, using horizontal scaling strategies to improve application capacity and resilience.
-
-**🔐 Secure Delivery**
-
-Integrated security and quality checks into CI/CD workflows, worked with cloud IAM and network controls, and supported safer application deployment practices.
-
-**📈 Observability & Operations**
-
-Implemented monitoring and logging solutions using Prometheus, Grafana, Datadog, New Relic, and Elasticsearch to improve visibility into distributed systems.
+- **Cloud-Native Platforms** — Kubernetes infrastructure, workload isolation, private networking, and secure connectivity.
+- **Infrastructure Automation** — Reusable Terraform, Terragrunt, and Bicep modules for consistent cloud environments.
+- **Scalability & Reliability** — Horizontal scaling strategies supporting high-traffic production workloads.
+- **Secure Delivery** — CI/CD automation, security checks, and safer deployment workflows.
+- **Observability** — Monitoring and logging solutions using Prometheus, Grafana, Datadog, New Relic, and Elasticsearch.
 
 ---
 
 ## 🌱 Currently Exploring
 
-I'm particularly interested in the engineering practices that make large-scale platforms more reliable and easier to operate.
-
 - **Site Reliability Engineering** — SLOs, incident response, resilience, and failure testing.
-- **Platform Engineering** — self-service infrastructure, internal platforms, and developer experience.
-- **Kubernetes** — orchestration, autoscaling, availability, and workload security.
-- **GitOps & Automation** — declarative infrastructure and continuous delivery.
-- **Cloud Architecture** — scalable networking, secure infrastructure, and cost-aware design.
+- **Platform Engineering** — Self-service infrastructure and developer experience.
+- **Kubernetes** — Autoscaling, workload security, and high availability.
+- **GitOps & Automation** — Declarative infrastructure and continuous delivery.
+- **Cloud Architecture** — Secure networking, scalability, and cost optimization.
 
 ---
 
@@ -128,7 +138,7 @@ I'm particularly interested in the engineering practices that make large-scale p
 > **Automate what repeats. Observe what matters.  
 > Engineer for failure. Build for reliability.**
 
-I believe great infrastructure isn't defined by the number of tools it uses, but by how reliably it operates, how safely it evolves, and how effectively it enables developers to build great software.
+Great infrastructure isn't defined by how many tools it uses, but by **how reliably it operates, how safely it evolves, and how effectively it enables developers**.
 
 ---
 
