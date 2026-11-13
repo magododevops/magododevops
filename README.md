@@ -1,17 +1,16 @@
-<div align="center">
+ <div align="center">
+
+<img src="./astronaut-coding.gif" alt="Astronaut coding at night" width="100%" />
 
 # Hey, I'm Pedro 👋
 
-### Senior DevOps Engineer · Cloud · Kubernetes · Platform Engineering
+### Senior Platform Engineer · DevOps · SRE
 
-I build **reliable cloud infrastructure**, automate delivery pipelines,  
-and turn complex systems into platforms developers can actually enjoy using.
+Building reliable cloud-native platforms through **automation, infrastructure engineering, and observability**.
 
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pedro_Schmid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedroschmid/)
-[![GitHub](https://img.shields.io/badge/GitHub-pedroschmid-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pedroschmid)
-![Profile Views](https://komarev.com/ghpvc/?username=pedroschmid&style=for-the-badge&color=0e75b6)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedroschmid/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pedroschmid)
+[![Email](https://img.shields.io/badge/Email-Contact-555555?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedro.schmid2311@gmail.com)
 
 </div>
 
@@ -19,130 +18,128 @@ and turn complex systems into platforms developers can actually enjoy using.
 
 ## 👨‍💻 About Me
 
-```yaml
-name: Pedro Schmid
-role: Senior DevOps Engineer
+I'm a **Senior Platform / DevOps Engineer** with a software engineering background and experience building, automating, and operating cloud-native infrastructure.
 
-focus:
-  - Cloud Infrastructure
-  - Kubernetes & Container Platforms
-  - Infrastructure as Code
-  - CI/CD & GitOps
-  - Observability
-  - Automation
-  - Reliability & FinOps
+I work across **AWS, Google Cloud, and Microsoft Azure**, designing Kubernetes platforms, cloud networks, infrastructure automation, delivery pipelines, and observability solutions.
 
-currently:
-  building: scalable cloud-native platforms
-  automating: everything that should not be done twice
-  improving: developer experience and platform reliability
-```
+Having started my career in software development, I approach infrastructure with a developer's mindset: **build reliable systems, reduce complexity, and make engineering teams more productive.**
 
-I enjoy working where **software engineering meets infrastructure**.
-
-My day-to-day work involves designing cloud environments, operating Kubernetes platforms, building deployment pipelines, automating infrastructure, improving observability, and finding ways to make systems **simpler, safer, faster, and cheaper to operate**.
-
-I believe good DevOps isn't just about tools — it's about building platforms that let teams **ship confidently**.
+- ☁️ Designing scalable, secure, and resilient cloud infrastructure.
+- ☸️ Building and operating Kubernetes-based platforms.
+- 🏗️ Automating infrastructure with Terraform, Terragrunt, and Bicep.
+- 🔁 Improving delivery through CI/CD, GitOps, and DevSecOps.
+- 📊 Strengthening reliability through observability, automation, and operational practices.
 
 ---
 
-## ⚡ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
 ### ☁️ Cloud & Infrastructure
 
-[![Cloud](https://skillicons.dev/icons?i=azure,aws,gcp,terraform)](https://skillicons.dev)
+![Cloud](https://skillicons.dev/icons?i=aws,gcp,azure,terraform,ansible,linux&theme=dark)
 
-### ☸️ Containers & Platform
+`AWS` · `Google Cloud` · `Azure` · `Terraform` · `Terragrunt` · `Bicep` · `Ansible`
 
-[![Platform](https://skillicons.dev/icons?i=kubernetes,docker,helm)](https://skillicons.dev)
+### ☸️ Containers & Platform Engineering
+
+![Platforms](https://skillicons.dev/icons?i=kubernetes,docker,helm,nginx&theme=dark)
+
+`Kubernetes` · `AKS` · `Docker` · `Helm` · `Argo CD` · `GitOps`
 
 ### 🔁 CI/CD & Automation
 
-[![Automation](https://skillicons.dev/icons?i=githubactions,jenkins,gitlab,ansible)](https://skillicons.dev)
+![Automation](https://skillicons.dev/icons?i=githubactions,github,gitlab,git,python,bash&theme=dark)
 
-### 💻 Languages & Scripting
+`GitHub Actions` · `Azure DevOps` · `Google Cloud Build` · `Argo Workflows`
 
-[![Languages](https://skillicons.dev/icons?i=bash,powershell,python,go,java,ts)](https://skillicons.dev)
+### 💻 Development & Scripting
 
-### 📊 Observability & Data
+![Languages](https://skillicons.dev/icons?i=python,ts,js,java,nodejs,postgres&theme=dark)
 
-[![Observability](https://skillicons.dev/icons?i=prometheus,grafana,postgres,mongodb,kafka)](https://skillicons.dev)
+`Python` · `TypeScript` · `JavaScript` · `Java` · `Bash` · `Node.js`
 
-### 🛠️ Tools
+### 📊 Observability & Security
 
-[![Tools](https://skillicons.dev/icons?i=git,github,gitlab,linux,vscode)](https://skillicons.dev)
+![Observability](https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch&theme=dark)
+
+`Prometheus` · `Grafana` · `Loki` · `Tempo` · `Datadog` · `New Relic` · `Trivy` · `Snyk`
 
 </div>
 
 ---
 
-## 🚀 What I Like Building
+## 🚀 What I Do
 
-```text
-Infrastructure as Code     ████████████████████
-Kubernetes Platforms       ████████████████████
-CI/CD & GitOps             ███████████████████░
-Cloud Architecture         ███████████████████░
-Observability              ██████████████████░░
-Automation                 ████████████████████
-Platform Engineering       ███████████████████░
-FinOps                     ████████████████░░░░
-```
+My work sits at the intersection of **software engineering, cloud infrastructure, and reliability**.
 
-I particularly enjoy working on:
-
-- ☸️ Production-ready **Kubernetes platforms**
-- 🏗️ Reusable **Infrastructure as Code**
-- 🔁 Automated **CI/CD pipelines**
-- 🚀 **GitOps** deployment workflows
-- 📊 Monitoring, logging and **observability**
-- 🔐 Cloud security and **identity**
-- 💰 Infrastructure optimization and **FinOps**
-- 🛠️ Internal platforms and **developer experience**
+| Area | Focus |
+| :--- | :--- |
+| ☁️ **Cloud Engineering** | Multi-cloud architecture, networking, IAM, and infrastructure automation |
+| ☸️ **Platform Engineering** | Kubernetes, workload isolation, GitOps, and developer experience |
+| 🏗️ **Infrastructure as Code** | Reusable modules, reproducible environments, and automated provisioning |
+| 🔁 **CI/CD & DevSecOps** | Automated pipelines, secure delivery, and deployment strategies |
+| 📊 **Observability** | Metrics, logs, traces, monitoring, and alerting |
+| 🛡️ **Reliability Engineering** | Scalability, high availability, disaster recovery, and operational resilience |
 
 ---
 
-## 📈 GitHub
+## ⚡ Engineering Experience
 
-<div align="center">
+A few examples of the challenges I've worked on:
 
-<img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api?username=pedroschmid&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github"
-/>
+**☸️ Cloud-Native Platforms**
 
-<img
-  height="165"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroschmid&layout=compact&hide_border=true&theme=github_dark"
-/>
+Designed and operated Kubernetes infrastructure across cloud environments, with a focus on workload isolation, private networking, secure connectivity, and automated deployments.
 
-</div>
+**🏗️ Infrastructure Automation**
 
-<br>
+Built reusable Terraform, Terragrunt, and Bicep modules to standardize cloud provisioning, reduce configuration drift, and support consistent environments.
 
-<div align="center">
+**🚀 Scalability & Reliability**
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=pedroschmid&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+Supported high-traffic production workloads during Black Friday, using horizontal scaling strategies to improve application capacity and resilience.
 
-</div>
+**🔐 Secure Delivery**
+
+Integrated security and quality checks into CI/CD workflows, worked with cloud IAM and network controls, and supported safer application deployment practices.
+
+**📈 Observability & Operations**
+
+Implemented monitoring and logging solutions using Prometheus, Grafana, Datadog, New Relic, and Elasticsearch to improve visibility into distributed systems.
+
+---
+
+## 🌱 Currently Exploring
+
+I'm particularly interested in the engineering practices that make large-scale platforms more reliable and easier to operate.
+
+- **Site Reliability Engineering** — SLOs, incident response, resilience, and failure testing.
+- **Platform Engineering** — self-service infrastructure, internal platforms, and developer experience.
+- **Kubernetes** — orchestration, autoscaling, availability, and workload security.
+- **GitOps & Automation** — declarative infrastructure and continuous delivery.
+- **Cloud Architecture** — scalable networking, secure infrastructure, and cost-aware design.
 
 ---
 
 ## 💭 Engineering Philosophy
 
 > **Automate what repeats. Observe what matters.  
-> Simplify what is complex. Build for reliability.**
+> Engineer for failure. Build for reliability.**
+
+I believe great infrastructure isn't defined by the number of tools it uses, but by how reliably it operates, how safely it evolves, and how effectively it enables developers to build great software.
 
 ---
 
 <div align="center">
 
-### Let's build something reliable. ⚙️
+### Let's connect 🤝
 
-[![LinkedIn](https://img.shields.io/badge/Let's_connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pedroschmid/)
+Always interested in conversations about **DevOps, SRE, Platform Engineering, Cloud Architecture, and Kubernetes**.
 
-<sub>Cloud · Kubernetes · Automation · Platform Engineering</sub>
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedroschmid/)
+
+<sub>Cloud Native · Kubernetes · Platform Engineering · Reliability · Automation</sub>
 
 </div>
